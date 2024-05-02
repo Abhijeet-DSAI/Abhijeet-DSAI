@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Abhijeet Prakash</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A Passionate AI/ML Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeet-dsai&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeet-dsai" /> </p>
 
