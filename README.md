@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Ai Healthcare Chat Bot**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA,LLM and Gen AI**
 
 - 👯 I’m looking to collaborate on **Ai Healthcare Chat Bot**
 
